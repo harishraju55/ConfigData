@@ -1,4 +1,3 @@
 # ConfigData
-luckyword:Irish
-Rabbit's Foot:Serendipity
-testProperty:NotARealProperty
+luckyword="Irish"
+
